@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Khazna</string>
+    <string name="post_app">Post App</string>
+    <string name="posts">Posts</string>
+    <string name="dialog_title">Message</string>
+    <string name="there_are_no_posts">There are no posts, please try again later</string>
+    <string name="title">Title:</string>
+    <string name="body">Body:</string>
+    <string name="post_details">Post Details</string>
+</resources>
